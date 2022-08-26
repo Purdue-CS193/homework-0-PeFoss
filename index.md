@@ -3,8 +3,8 @@
 ### What I am looking forward from CS193
 
 - Learn more Git and Github tools
-- Refresh Git commands
-- Learn tecniques that will help me in CS180
+- Refresh on Git commands
+- Learn techniques that will help me in CS180
 
 ## Welcome to GitHub Pages
 
